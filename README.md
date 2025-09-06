@@ -4,9 +4,13 @@ The Cafe Management System is a Python-based console application designed to str
 
 **Features**
 -Display Menu: View all available items and their prices.
+
 -Take Customer Orders: Enter multiple items with quantities for each customer.
+
 -Generate Bill: Automatically calculate total amount for each order.
+
 -Sales Summary: View all transactions and total earnings for the day.
+
 -Interactive Console Interface: Easy-to-use text-based interface for quick operations.
 
 **Technologies Used**
